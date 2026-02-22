@@ -21,7 +21,19 @@ Welcome to my GitHub! I am a dedicated Full-Stack Developer with a strong focus 
 
 ![Jitesh Saini Tech Stack MERN C++](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,cpp,git,github,postman&perline=11)
 
-<br>
+
+---
+
+
+**📫 Let's Connect:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitesh-saini-dev/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-222222?style=for-the-badge&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/Jitesh-Saini/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jitesh-saini-dev)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/jitesh_saini)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/iamjiteshsaini21)
+
+---
 
 ### 📊 My Real-Time Development Stats
 
@@ -30,13 +42,3 @@ Welcome to my GitHub! I am a dedicated Full-Stack Developer with a strong focus 
 <br>
 
 ![Jitesh LeetCode DSA Stats](https://leetcard.jacoblin.cool/Jitesh-Saini?theme=dark&font=Syne&ext=activity)
-
----
-
-**📫 Let's Connect & Build Something Awesome:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitesh-saini-dev/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-222222?style=for-the-badge&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/Jitesh-Saini/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jitesh-saini-dev)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/jitesh_saini)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/iamjiteshsaini21)

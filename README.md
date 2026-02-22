@@ -1,4 +1,6 @@
-![Developer Animation](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+<div align="center">
+  <img height="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="MERN Developer Animation" />
+</div>
 
 # Hi there, I'm Jitesh Saini 👋
 
@@ -30,6 +32,7 @@ Welcome to my GitHub! I am a dedicated Full-Stack Developer with a strong focus 
 ![Jitesh LeetCode DSA Stats](https://leetcard.jacoblin.cool/Jitesh-Saini?theme=dark&font=Syne&ext=activity)
 
 ---
+
 **📫 Let's Connect & Build Something Awesome:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitesh-saini-dev/)

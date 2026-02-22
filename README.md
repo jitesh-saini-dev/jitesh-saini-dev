@@ -22,3 +22,16 @@ Welcome to my GitHub! I am a dedicated Full-Stack Developer with a strong focus 
 **📫 Let's Connect & Coding Profiles:**
 - **LinkedIn:** [linkedin.com/in/jitesh-saini-dev](https://www.linkedin.com/in/jitesh-saini-dev/)
 - **LeetCode:** [leetcode.com/u/Jitesh-Saini](https://leetcode.com/u/Jitesh-Saini/)
+
+---
+
+### 📊 My Real-Time Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jitesh-saini-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-saini-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Jitesh-Saini?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
+</div>

@@ -38,3 +38,4 @@ Welcome to my GitHub! I am a dedicated Full-Stack Developer with a strong focus 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitesh-saini-dev/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-222222?style=for-the-badge&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/Jitesh-Saini/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jitesh-saini-dev)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/jitesh_saini)

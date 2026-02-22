@@ -24,14 +24,18 @@ Welcome to my GitHub! I am a dedicated Full-Stack Developer with a strong focus 
 - **LeetCode:** [leetcode.com/u/Jitesh-Saini](https://leetcode.com/u/Jitesh-Saini/)
 
 ---
+### 📊 My Real-Time Stats & Activity
 
-### 📊 My Real-Time Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=jitesh-saini-dev&theme=tokyonight&hide_border=true)
+
+<br>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Jitesh-Saini?theme=dark&font=Syne&ext=activity)
+
+<br>
+
+### 💻 Tech Stack & Tools I Use
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jitesh-saini-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-saini-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Jitesh-Saini?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,html,css,git,github,postman&perline=6" alt="Jitesh Tech Stack" />
 </div>

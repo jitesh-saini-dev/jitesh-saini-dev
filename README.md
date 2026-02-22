@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=false&vCenter=true&width=600&lines=MERN+Stack+Developer;Web+Architecture+Enthusiast;MCA+Graduate;C%2B%2B+%26+DSA+Problem+Solver)](https://linkedin.com/in/jitesh-saini-dev)
 
-Welcome to my GitHub! I am a dedicated Full-Stack Developer with a strong focus on the MERN ecosystem. I specialize in architecting clean, scalable, and responsive web applications from the ground up. 
+Welcome to my GitHub! I am a dedicated Full-Stack Developer with a strong focus on the MERN ecosystem. I specialize in architecting clean and responsive web applications from the ground up. 
 
 **🔥 What I'm currently up to:**
 - 💻 Working as a **MERN Stack Developer Intern** at REGEX Software Services, building robust, real-world web solutions.

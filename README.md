@@ -19,8 +19,19 @@ Welcome to my GitHub! I am a dedicated Full-Stack Developer with a strong focus 
 
 ### 💻 Tech Stack & Tools I Architect With
 
-![Jitesh Saini Tech Stack MERN C++](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,cpp,git,github,postman&perline=11)
-
+<p align="left">
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://javascript.info/" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://web.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://web.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+</p>
 
 ---
 

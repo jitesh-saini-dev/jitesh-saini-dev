@@ -35,7 +35,6 @@ Welcome to my GitHub! I am a dedicated Full-Stack Developer with a strong focus 
 
 ---
 
-
 **📫 Let's Connect:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitesh-saini-dev/)
@@ -43,7 +42,7 @@ Welcome to my GitHub! I am a dedicated Full-Stack Developer with a strong focus 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jitesh-saini-dev)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/jitesh_saini)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/iamjiteshsaini21)
-
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jiteshsainidev)
 ---
 
 ### 📊 My Real-Time Development Stats

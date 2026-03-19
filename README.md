@@ -51,4 +51,4 @@ Welcome to my GitHub! I am a dedicated Full-Stack Developer with a strong focus 
 
 <br>
 
-![Jitesh LeetCode DSA Stats](https://leetcard.jacoblin.cool/Jitesh-Saini?theme=dark&font=Syne&ext=activity)
+![Jitesh LeetCode DSA Stats](https://leetcard.jacoblin.cool/jitesh-saini-dev?theme=dark&font=Syne&ext=activity)

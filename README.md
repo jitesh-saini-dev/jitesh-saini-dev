@@ -3,6 +3,7 @@
 </div>
 
 # Hi there, I'm Jitesh Saini 👋
+![Profile Views](https://komarev.com/ghpvc/?username=jitesh-saini-dev&color=10B981&style=flat-square&label=PROFILE+VIEWS)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=false&vCenter=true&width=600&lines=MERN+Stack+Developer;Web+Architecture+Enthusiast;MCA+Graduate;C%2B%2B+%26+DSA+Problem+Solver)](https://linkedin.com/in/jitesh-saini-dev)
 
@@ -11,7 +12,7 @@ Welcome to my GitHub! I am a dedicated Full-Stack Developer with a strong focus 
 **🔥 What I'm currently up to:**
 - 💻 Working as a **MERN Stack Developer Intern** at REGEX Software Services, building robust, real-world web solutions.
 - 🌐 Deep diving into advanced **React.js** patterns, **Node.js** backend optimizations, and designing RESTful APIs.
-- 🧠 Maintaining sharp problem-solving skills with my **[100 Days of LeetCode Challenge](https://leetcode.com/u/Jitesh-Saini/)** in **C++** (because strong logic makes a better web developer!).
+- 🧠 Maintaining sharp problem-solving skills with my **[100 Days of LeetCode Challenge](https://leetcode.com/u/jitesh-saini-dev/)** in **C++** (because strong logic makes a better web developer!).
 
 **🌱 Currently Exploring:** Advanced state management, system design, and optimizing web performance.
 
@@ -35,20 +36,30 @@ Welcome to my GitHub! I am a dedicated Full-Stack Developer with a strong focus 
 
 ---
 
-**📫 Let's Connect:**
+### 📫 Let's Connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitesh-saini-dev/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-222222?style=for-the-badge&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/jitesh-saini-dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jitesh-saini-dev)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/jitesh_saini)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jitesh_saini_dev)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jiteshsainidev)
+<p align="left">
+  <a href="https://www.linkedin.com/in/jitesh-saini-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/jitesh-saini-dev/"><img src="https://img.shields.io/badge/LeetCode-222222?style=for-the-badge&logo=LeetCode&logoColor=FFA116" alt="LeetCode" /></a>
+  <a href="https://github.com/jitesh-saini-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.codechef.com/users/jitesh_saini"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.hackerrank.com/profile/jitesh_saini_dev"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/jiteshsainidev"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="mailto:iamjiteshsaini2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 ---
 
 ### 📊 My Real-Time Development Stats
 
-![Jitesh GitHub Streak MERN Dev](https://streak-stats.demolab.com/?user=jitesh-saini-dev&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-saini-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jitesh-saini-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Jitesh LeetCode DSA Stats](https://leetcard.jacoblin.cool/jitesh-saini-dev?theme=dark&font=Syne&ext=activity)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jitesh-saini-dev?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
+</p>
